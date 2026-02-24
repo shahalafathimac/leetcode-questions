@@ -1,15 +1,15 @@
 class Solution(object):
-    def addDigits(self, num):
+    def addDigits(self, nums):
         """
         :type num: int
         :rtype: int
         """
     
-        while num>=10:
+        while nums>=10:
             store = 0
-            for digit in str(num):
+            for digit in str(nums):
                 store+=int(digit)
-            num = store
-        return num
+            nums = store
+        return nums
 
        
