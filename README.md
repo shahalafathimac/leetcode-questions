@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shahalafathimac/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shahalafathimac/leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
