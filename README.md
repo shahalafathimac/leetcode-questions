@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shahalafathimac/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shahalafathimac/leetcode-questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shahalafathimac/leetcode-questions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shahalafathimac/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
