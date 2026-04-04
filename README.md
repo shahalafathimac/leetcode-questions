@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/shahalafathimac/leetcode-questions/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/shahalafathimac/leetcode-questions/tree/master/0620-not-boring-movies) |
+| [1148-article-views-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shahalafathimac/leetcode-questions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
