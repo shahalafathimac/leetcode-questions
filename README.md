@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0682-baseball-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/0682-baseball-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/shahalafathimac/leetcode-questions/tree/main/1436-destination-city/) | Easy |
@@ -136,4 +137,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Binary Search
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
