@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
+| [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0682-baseball-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/0682-baseball-game) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
