@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shahalafathimac/leetcode-questions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Binary Indexed Tree
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahalafathimac/leetcode-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
