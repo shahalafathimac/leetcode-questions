@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/shahalafathimac/leetcode-questions/tree/main/3024-type-of-triangle/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shahalafathimac/leetcode-questions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shahalafathimac/leetcode-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/shahalafathimac/leetcode-questions/tree/main/3024-type-of-triangle/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shahalafathimac/leetcode-questions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
