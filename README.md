@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/shahalafathimac/leetcode-questions/tree/main/3024-type-of-triangle/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shahalafathimac/leetcode-questions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3668-restore-finishing-order](https://github.com/shahalafathimac/leetcode-questions/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/shahalafathimac/leetcode-questions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/shahalafathimac/leetcode-questions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shahalafathimac/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/2974-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/shahalafathimac/leetcode-questions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
