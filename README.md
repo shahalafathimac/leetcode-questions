@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shahalafathimac/leetcode-questions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/shahalafathimac/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/shahalafathimac/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/shahalafathimac/leetcode-questions/tree/master/0058-length-of-last-word) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shahalafathimac/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/shahalafathimac/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/shahalafathimac/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/shahalafathimac/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
