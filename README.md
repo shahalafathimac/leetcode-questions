@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/shahalafathimac/leetcode-questions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/shahalafathimac/leetcode-questions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3668-restore-finishing-order](https://github.com/shahalafathimac/leetcode-questions/tree/master/3668-restore-finishing-order) |
 ## String
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/shahalafathimac/leetcode-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/shahalafathimac/leetcode-questions/tree/master/2942-find-words-containing-character) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
