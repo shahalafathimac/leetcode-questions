@@ -265,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shahalafathimac/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/shahalafathimac/leetcode-questions/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
