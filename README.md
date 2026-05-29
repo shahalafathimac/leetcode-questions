@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0682-baseball-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/0682-baseball-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shahalafathimac/leetcode-questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/shahalafathimac/leetcode-questions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shahalafathimac/leetcode-questions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/shahalafathimac/leetcode-questions/tree/master/0258-add-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shahalafathimac/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shahalafathimac/leetcode-questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shahalafathimac/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
