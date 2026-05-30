@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/shahalafathimac/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/shahalafathimac/leetcode-questions/tree/main/1436-destination-city/) | Easy |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/shahalafathimac/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shahalafathimac/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [1436-destination-city](https://github.com/shahalafathimac/leetcode-questions/tree/main/1436-destination-city/) | Easy |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shahalafathimac/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
+| [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shahalafathimac/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Greedy
