@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/shahalafathimac/leetcode-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/shahalafathimac/leetcode-questions/tree/main/3024-type-of-triangle/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shahalafathimac/leetcode-questions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3516-find-closest-person](https://github.com/shahalafathimac/leetcode-questions/tree/main/3516-find-closest-person/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
