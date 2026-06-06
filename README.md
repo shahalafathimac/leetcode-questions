@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/shahalafathimac/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shahalafathimac/leetcode-questions/tree/main/1528-shuffle-string/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shahalafathimac/leetcode-questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shahalafathimac/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shahalafathimac/leetcode-questions/tree/master/1672-richest-customer-wealth) |
 ## Stack
 | Problem Name | Difficulty |
