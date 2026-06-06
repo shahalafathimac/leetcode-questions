@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/shahalafathimac/leetcode-questions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/shahalafathimac/leetcode-questions/tree/main/1528-shuffle-string/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/shahalafathimac/leetcode-questions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shahalafathimac/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/shahalafathimac/leetcode-questions/tree/main/1816-truncate-sentence/) | Easy |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shahalafathimac/leetcode-questions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shahalafathimac/leetcode-questions/tree/master/1512-number-of-good-pairs) |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shahalafathimac/leetcode-questions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/shahalafathimac/leetcode-questions/tree/master/2615-sum-of-distances) |
 ## Sliding Window
 | Problem Name | Difficulty |
