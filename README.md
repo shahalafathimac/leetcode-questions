@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/shahalafathimac/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/shahalafathimac/leetcode-questions/tree/main/1816-truncate-sentence/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/shahalafathimac/leetcode-questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shahalafathimac/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/shahalafathimac/leetcode-questions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shahalafathimac/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shahalafathimac/leetcode-questions/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1929-concatenation-of-array](https://github.com/shahalafathimac/leetcode-questions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/shahalafathimac/leetcode-questions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2974-minimum-number-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/3701-compute-alternating-sum/) | Easy |
