@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/shahalafathimac/leetcode-questions/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/shahalafathimac/leetcode-questions/tree/master/0176-second-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/shahalafathimac/leetcode-questions/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/shahalafathimac/leetcode-questions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/0196-delete-duplicate-emails) |
