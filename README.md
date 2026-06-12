@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/shahalafathimac/leetcode-questions/tree/main/0193-valid-phone-numbers/) | Easy |
 | [0195-tenth-line](https://github.com/shahalafathimac/leetcode-questions/tree/main/0195-tenth-line/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
