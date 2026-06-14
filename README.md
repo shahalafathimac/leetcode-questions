@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shahalafathimac/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0035-search-insert-position](https://github.com/shahalafathimac/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/shahalafathimac/leetcode-questions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/shahalafathimac/leetcode-questions/tree/main/0066-plus-one/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/shahalafathimac/leetcode-questions/tree/master/0258-add-digits) |
