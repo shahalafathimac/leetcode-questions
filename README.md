@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1148-article-views-i/) | Easy |
+| [1179-reformat-department-table](https://github.com/shahalafathimac/leetcode-questions/tree/main/1179-reformat-department-table/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shahalafathimac/leetcode-questions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [3436-find-valid-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/3436-find-valid-emails) |
 ## Matrix
