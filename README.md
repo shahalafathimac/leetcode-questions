@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/shahalafathimac/leetcode-questions/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shahalafathimac/leetcode-questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0607-sales-person](https://github.com/shahalafathimac/leetcode-questions/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/shahalafathimac/leetcode-questions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/shahalafathimac/leetcode-questions/tree/main/0627-swap-sex-of-employees/) | Easy |
