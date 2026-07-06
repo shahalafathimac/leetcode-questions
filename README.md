@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/shahalafathimac/leetcode-questions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/0196-delete-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/shahalafathimac/leetcode-questions/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shahalafathimac/leetcode-questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0607-sales-person](https://github.com/shahalafathimac/leetcode-questions/tree/main/0607-sales-person/) | Easy |
