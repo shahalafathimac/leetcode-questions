@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/shahalafathimac/leetcode-questions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/shahalafathimac/leetcode-questions/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shahalafathimac/leetcode-questions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0595-big-countries](https://github.com/shahalafathimac/leetcode-questions/tree/main/0595-big-countries/) | Easy |
 | [0607-sales-person](https://github.com/shahalafathimac/leetcode-questions/tree/main/0607-sales-person/) | Easy |
 | [0619-biggest-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/shahalafathimac/leetcode-questions/tree/master/0620-not-boring-movies) |
