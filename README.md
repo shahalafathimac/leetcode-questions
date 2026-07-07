@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/shahalafathimac/leetcode-questions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/shahalafathimac/leetcode-questions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/shahalafathimac/leetcode-questions/tree/main/1407-top-travellers/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/shahalafathimac/leetcode-questions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [3436-find-valid-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/3436-find-valid-emails) |
 ## Matrix
 | Problem Name | Difficulty |
