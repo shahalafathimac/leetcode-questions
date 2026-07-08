@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/shahalafathimac/leetcode-questions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/shahalafathimac/leetcode-questions/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/shahalafathimac/leetcode-questions/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/shahalafathimac/leetcode-questions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [3436-find-valid-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/3436-find-valid-emails) |
 ## Matrix
 | Problem Name | Difficulty |
