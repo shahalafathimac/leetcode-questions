@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/shahalafathimac/leetcode-questions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/shahalafathimac/leetcode-questions/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shahalafathimac/leetcode-questions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/shahalafathimac/leetcode-questions/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [3436-find-valid-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/3436-find-valid-emails) |
 ## Matrix
 | Problem Name | Difficulty |
