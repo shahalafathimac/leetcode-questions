@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/shahalafathimac/leetcode-questions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/shahalafathimac/leetcode-questions/tree/main/1179-reformat-department-table/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/shahalafathimac/leetcode-questions/tree/main/1211-queries-quality-and-percentage/) | Easy |
