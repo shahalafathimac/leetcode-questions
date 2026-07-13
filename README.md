@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shahalafathimac/leetcode-questions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/shahalafathimac/leetcode-questions/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/shahalafathimac/leetcode-questions/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shahalafathimac/leetcode-questions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 | [3436-find-valid-emails](https://github.com/shahalafathimac/leetcode-questions/tree/master/3436-find-valid-emails) |
 ## Matrix
 | Problem Name | Difficulty |
