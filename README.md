@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/shahalafathimac/leetcode-questions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/shahalafathimac/leetcode-questions/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shahalafathimac/leetcode-questions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shahalafathimac/leetcode-questions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
