@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shahalafathimac/leetcode-questions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/shahalafathimac/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/shahalafathimac/leetcode-questions/tree/main/0066-plus-one/) | Easy |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shahalafathimac/leetcode-questions/tree/master/0125-valid-palindrome) |
