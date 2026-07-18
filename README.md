@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shahalafathimac/leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/shahalafathimac/leetcode-questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/shahalafathimac/leetcode-questions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/shahalafathimac/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/shahalafathimac/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/shahalafathimac/leetcode-questions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/shahalafathimac/leetcode-questions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/shahalafathimac/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/shahalafathimac/leetcode-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/shahalafathimac/leetcode-questions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/shahalafathimac/leetcode-questions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shahalafathimac/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/shahalafathimac/leetcode-questions/tree/master/0682-baseball-game) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/shahalafathimac/leetcode-questions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/shahalafathimac/leetcode-questions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/shahalafathimac/leetcode-questions/tree/main/0342-power-of-four/) | Easy |
