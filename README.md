@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shahalafathimac/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/shahalafathimac/leetcode-questions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/shahalafathimac/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/shahalafathimac/leetcode-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/shahalafathimac/leetcode-questions/tree/main/0231-power-of-two/) | Easy |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/shahalafathimac/leetcode-questions/tree/main/0070-climbing-stairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/shahalafathimac/leetcode-questions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
