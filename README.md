@@ -352,22 +352,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/shahalafathimac/leetcode-questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/shahalafathimac/leetcode-questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
