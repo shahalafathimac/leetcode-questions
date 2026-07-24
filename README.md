@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/shahalafathimac/leetcode-questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/shahalafathimac/leetcode-questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
@@ -370,11 +372,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/shahalafathimac/leetcode-questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
