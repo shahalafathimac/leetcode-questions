@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shahalafathimac/leetcode-questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/shahalafathimac/leetcode-questions/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/shahalafathimac/leetcode-questions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/shahalafathimac/leetcode-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/shahalafathimac/leetcode-questions/tree/main/0290-word-pattern/) | Easy |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shahalafathimac/leetcode-questions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/shahalafathimac/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/shahalafathimac/leetcode-questions/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/shahalafathimac/leetcode-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/shahalafathimac/leetcode-questions/tree/main/0231-power-of-two/) | Easy |
