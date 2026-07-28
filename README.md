@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/shahalafathimac/leetcode-questions/tree/main/0290-word-pattern/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/shahalafathimac/leetcode-questions/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/shahalafathimac/leetcode-questions/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/shahalafathimac/leetcode-questions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shahalafathimac/leetcode-questions/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/shahalafathimac/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0507-perfect-number/) | Easy |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/shahalafathimac/leetcode-questions/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/shahalafathimac/leetcode-questions/tree/main/0231-power-of-two/) | Easy |
+| [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shahalafathimac/leetcode-questions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
@@ -290,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/shahalafathimac/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shahalafathimac/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
