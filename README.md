@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0409-longest-palindrome](https://github.com/shahalafathimac/leetcode-questions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/shahalafathimac/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/main/0434-number-of-segments-in-a-string/) | Easy |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shahalafathimac/leetcode-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shahalafathimac/leetcode-questions/tree/main/0342-power-of-four/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0412-fizz-buzz](https://github.com/shahalafathimac/leetcode-questions/tree/main/0412-fizz-buzz/) | Easy |
 | [0507-perfect-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0507-perfect-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/shahalafathimac/leetcode-questions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/shahalafathimac/leetcode-questions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/shahalafathimac/leetcode-questions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shahalafathimac/leetcode-questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Greedy
