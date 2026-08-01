@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/shahalafathimac/leetcode-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
+| [0257-binary-tree-paths](https://github.com/shahalafathimac/leetcode-questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/shahalafathimac/leetcode-questions/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shahalafathimac/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/shahalafathimac/leetcode-questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/shahalafathimac/leetcode-questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/shahalafathimac/leetcode-questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/shahalafathimac/leetcode-questions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/shahalafathimac/leetcode-questions/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0257-binary-tree-paths](https://github.com/shahalafathimac/leetcode-questions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -415,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/shahalafathimac/leetcode-questions/tree/main/0070-climbing-stairs/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/shahalafathimac/leetcode-questions/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
