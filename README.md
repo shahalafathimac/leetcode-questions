@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shahalafathimac/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shahalafathimac/leetcode-questions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/shahalafathimac/leetcode-questions/tree/main/0278-first-bad-version/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shahalafathimac/leetcode-questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/shahalafathimac/leetcode-questions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Divide and Conquer
@@ -428,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/shahalafathimac/leetcode-questions/tree/main/0257-binary-tree-paths/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/shahalafathimac/leetcode-questions/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
