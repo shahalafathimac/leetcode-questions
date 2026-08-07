@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shahalafathimac/leetcode-questions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/shahalafathimac/leetcode-questions/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0202-happy-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/shahalafathimac/leetcode-questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/shahalafathimac/leetcode-questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shahalafathimac/leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/shahalafathimac/leetcode-questions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/shahalafathimac/leetcode-questions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/shahalafathimac/leetcode-questions/tree/main/0242-valid-anagram/) | Easy |
 | [0257-binary-tree-paths](https://github.com/shahalafathimac/leetcode-questions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/shahalafathimac/leetcode-questions/tree/main/0290-word-pattern/) | Easy |
