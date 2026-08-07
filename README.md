@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/shahalafathimac/leetcode-questions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/shahalafathimac/leetcode-questions/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/shahalafathimac/leetcode-questions/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/shahalafathimac/leetcode-questions/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/shahalafathimac/leetcode-questions/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/shahalafathimac/leetcode-questions/tree/main/0389-find-the-difference/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shahalafathimac/leetcode-questions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shahalafathimac/leetcode-questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shahalafathimac/leetcode-questions/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/shahalafathimac/leetcode-questions/tree/main/0118-pascals-triangle/) | Easy |
+| [0338-counting-bits](https://github.com/shahalafathimac/leetcode-questions/tree/main/0338-counting-bits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
